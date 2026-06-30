@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://legen-djac-obsvdyu.github.io/content-lib/sitemap.xml
